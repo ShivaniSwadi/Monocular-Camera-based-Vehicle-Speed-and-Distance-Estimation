@@ -1,1 +1,2 @@
-# Monocular-Camera-based-Vehicle-Speed-and-Distance-Estimation
+# Monocular Camera based Vehicle Speed and Distance Estimation
+Under the Autonomous vehicle research paradigm and traffic monitoring, reat-time vehicle detection is one of the challenging concept. Detecting and estimating the distance and speed of the neighbooring vehicles is critical for ensuring that the vehicle can maintain a safe distance and drive safely on the highways.tn the event of an emergency, the intelligent driver aid system provide automatic control to slow ot stop the vehicle. In order to improve vehicle traffic safety, advance driver assitance system(ADAS) are utilised in the automobiles. ADAS is comprised of multiple subsystemsthat assist driver in avoiding accidents while driving. 
